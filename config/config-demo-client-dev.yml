@@ -1,5 +1,4 @@
 data:
-  env: config-eureka-dev
   user:
     username: taoqz
     password: 1291029102
