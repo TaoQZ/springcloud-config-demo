@@ -1,1 +1,4 @@
-data
+data:
+  user:
+    username: taoqz-test
+    password: 1291029102
